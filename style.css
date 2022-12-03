@@ -145,15 +145,15 @@ ul li:hover {
         clip-path: circle(40% at bottom);
     }
 
-        ul li {
+    ul li {
 
-            font-size: 15px;
+        font-size: 15px;
 
-        }
+    }
 
 }
 
-@media (min-width:700px ) and (max-width:1000px){
+@media (min-width:700px) and (max-width:1000px) {
 
     .contentt .image img {
         margin-left: -40px;
